@@ -1,0 +1,23 @@
+{
+    "health_bar": "Life: {life} | Weapon: {weapon} | Last monster defeated: {last_monster_killed}",
+    "room_display": "Room: {cards}",
+    "deck_quantity": "Deck remaining cards: {deck}",
+    "barehanded": "",
+    "weapon_fight": "",
+    "life_loss": "{text} You suffer {value} de daño.",
+    "room_avoided": "Room avoided.",
+    "defeat": "\n You lose! Restarting game.",
+    "victory": "\n You win! Restarting game.",
+    "error_index": "Invalid index.",
+    "life_gained": "You gain {gained} life.",
+    "already_healed": "Yo have already healed in this room.",
+    "equipped": "You equipped your self with a {value} weapon.",
+    "fight_style": "Do you want to use your weapon? (Y or N)",
+    "new_room": "You enter a new room.",
+    "pick_card": "Pick a card:",
+    "choose_position": "[1-{n}] Choose the card's position",
+    "avoid_room": "r - Avoid room",
+    "quit_game": "q - Quit Game",
+    "goodbye": "See you soon!",
+    "invalid_command": "Invalid command."
+}
