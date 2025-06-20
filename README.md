@@ -1,61 +1,64 @@
 # 🃏 Scoundrel Console Game
 
-Bienvenido a **Scoundrel Console Game**, un juego de cartas por terminal inspirado en *Scoundrel* de Zach Gage. Usa un mazo estándar (sin comodines ni cartas de figuras rojas) para enfrentar monstruos, encontrar armas y sobrevivir todo lo que puedas.
+> 🇪🇸 ¿Buscas la versión en español?  
+> Revisa [README.es.md](README.es.md)
 
-## 🎮 Características
+Welcome to **Scoundrel Console Game**, a terminal-based card game inspired by *Scoundrel* by Zach Gage. Use a standard deck (no jokers or red face cards) to battle monsters, find weapons, and survive as long as you can.
 
-- Juego en consola escrito en Python
-- Sistema de combate simple con decisiones estratégicas
-- Gestión de vida, armas y habitaciones
-- Compatible con Windows, macOS y Linux
-- Soporte multilenguaje (Español e Inglés)
+## 🎮 Features
 
-## 🚀 Cómo jugar
+- Console game written in Python
+- Simple combat system with strategic choices
+- Manage life, weapons, and rooms
+- Compatible with Windows, macOS, and Linux
+- Multilanguage support (English and Spanish)
 
-1. Asegúrate de tener **Python 3.8+** instalado.
-2. Clona este repositorio:
+## 🚀 How to Play
+
+1. Make sure you have **Python 3.8+** installed.
+2. Clone this repository:
    ```bash
    git clone https://github.com/usuario/scoundrel-console-game.git
    cd scoundrel-console-game
    ```
-3. Ejecuta el juego:
+3. Run the game:
    ```bash
    python main.py
    ```
-4. Para usar un idioma específico:
+4. To run in a specific language:
    ```bash
-   python main.py --language es  # o en
+   python main.py --language en  # or es
    ```
 
-## 📘 Reglas del juego original
+## 📘 Original Game Rules
 
-Este juego se basa en el diseño de *Scoundrel*, creado por Zach Gage.  
-Puedes consultar las reglas originales en el siguiente PDF:  
+This game is based on the design of *Scoundrel*, created by Zach Gage.  
+You can find the official rules in this PDF:  
 👉 [http://www.stfj.net/art/2011/Scoundrel.pdf](http://www.stfj.net/art/2011/Scoundrel.pdf)
 
-## 🗂 Estructura del proyecto
+## 🗂 Project Structure
 
 ```
 📁 scoundrel_console/
-├── locales/              # Idiomas del juego
-├── main.py               # Archivo principal
+├── locales/              # Game languages
+├── main.py               # Main script
 └── README.md
 ```
 
-## 🛠 Dependencias
+## 🛠 Dependencies
 
-- Solo se utilizan módulos estándar de Python (`random`, `sys`, etc.)
-- No requiere librerías externas
+- Uses only Python standard libraries (`random`, `sys`, etc.)
+- No external packages required
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 
-¡Se agradecen las contribuciones!  
-Puedes crear un issue para sugerencias o enviar un pull request con mejoras.
+Contributions are welcome!  
+You can open an issue for suggestions or submit a pull request with improvements.
 
-## 📄 Licencia
+## 📄 License
 
-El código fuente de este proyecto está disponible bajo la [Licencia MIT](LICENSE).
+The source code for this project is available under the [MIT License](LICENSE).
 
-> ⚠️ Este juego está basado en *Scoundrel*, un diseño original de Zach Gage. No tengo afiliación con el autor ni derechos sobre el diseño original.  
-> Este proyecto es una reinterpretación sin fines comerciales.  
-> Consulta las reglas oficiales de *Scoundrel* aquí: [http://www.stfj.net/art/2011/Scoundrel.pdf](http://www.stfj.net/art/2011/Scoundrel.pdf).
+> ⚠️ This game is based on *Scoundrel*, an original design by Zach Gage. I am not affiliated with the author and do not hold any rights over the original game design.  
+> This project is a non-commercial reinterpretation.  
+> You can find the official *Scoundrel* rules here: [http://www.stfj.net/art/2011/Scoundrel.pdf](http://www.stfj.net/art/2011/Scoundrel.pdf).
