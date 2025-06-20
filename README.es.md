@@ -1,6 +1,6 @@
 # 🃏 Scoundrel Console Game
 
-> 🇬🇧 Looking for the English version?  
+> 🇺🇸 Looking for the English version?  
 > See [README.md](README.md)
 
 
