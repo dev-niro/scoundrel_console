@@ -1,0 +1,23 @@
+{
+    "health_bar": "Vida: {life} | Arma: {weapon} | Último monstruo derrotado: {last_monster_killed}",
+    "room_display": "Habitación: {cards}",
+    "deck_quantity": "Cartas restantes del mazo: {deck}",
+    "barehanded": "Pelea sin armas.",
+    "weapon_fight": "Has usado tu arma.",
+    "life_loss": "{text} Sufres {value} de daño.",
+    "room_avoided": "Habitación evitada.",
+    "defeat": "\n ¡Has perdido! Reiniciando el juego.",
+    "victory": "\n ¡Has ganado! Reiniciando el juego.",
+    "error_index": "Índice no válido.",
+    "life_gained": "Ganas {gained} de vida.",
+    "already_healed": "Ya te has curado en esta habitación.",
+    "equipped": "Te equipaste con un arma {value}.",
+    "fight_style": "¿Quieres usar tu arma? (Y o N)",
+    "new_room": "Entras a una nueva habitación.",
+    "pick_card": "Elige una carta:",
+    "choose_position": "[1-{n}] Elige la posición de la carta",
+    "avoid_room": "r - Evitar habitación",
+    "quit_game": "q - Salir del juego",
+    "goodbye": "¡Hasta pronto!",
+    "invalid_command": "Comando no válido."
+}
