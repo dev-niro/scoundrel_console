@@ -13,12 +13,12 @@ parser.add_argument(
 parser.add_argument(
     "--language",
     type=str,
-    default="es"
+    default="en"
 )
 args = parser.parse_args()
 
 # Language
-def load_locale(lang="es"):
+def load_locale(lang="en"):
     with open(f"locales/{lang}.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
