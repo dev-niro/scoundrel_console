@@ -19,7 +19,7 @@ Welcome to **Scoundrel Console Game**, a terminal-based card game inspired by *S
 2. Clone this repository:
    ```bash
    git clone https://github.com/dev-niro/scoundrel_console.git
-   cd scoundrel-console-game
+   cd scoundrel_console/
    ```
 3. Run the game:
    ```bash
