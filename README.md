@@ -18,7 +18,7 @@ Welcome to **Scoundrel Console Game**, a terminal-based card game inspired by *S
 1. Make sure you have **Python 3.8+** installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/usuario/scoundrel-console-game.git
+   git clone https://github.com/dev-niro/scoundrel_console.git
    cd scoundrel-console-game
    ```
 3. Run the game:
